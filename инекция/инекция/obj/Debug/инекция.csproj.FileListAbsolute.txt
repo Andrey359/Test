@@ -1,0 +1,15 @@
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\bin\Debug\инекция.exe.config
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\bin\Debug\инекция.exe
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\bin\Debug\инекция.pdb
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\obj\Debug\инекция.csproj.AssemblyReference.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\obj\Debug\MainWindow.g.cs
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\obj\Debug\App.g.cs
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\obj\Debug\инекция_MarkupCompile.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\obj\Debug\инекция_MarkupCompile.lref
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\obj\Debug\MainWindow.baml
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\obj\Debug\инекция.g.resources
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\obj\Debug\инекция.Properties.Resources.resources
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\obj\Debug\инекция.csproj.GenerateResource.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\obj\Debug\инекция.csproj.CoreCompileInputs.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\obj\Debug\инекция.exe
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\инекция\инекция\obj\Debug\инекция.pdb

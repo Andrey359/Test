@@ -1,0 +1,11 @@
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Сообщение\Сообщение\bin\Debug\Сообщение.exe.config
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Сообщение\Сообщение\bin\Debug\Сообщение.exe
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Сообщение\Сообщение\bin\Debug\Сообщение.pdb
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Сообщение\Сообщение\obj\Debug\Сообщение.csproj.AssemblyReference.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Сообщение\Сообщение\obj\Debug\Сообщение.Form1.resources
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Сообщение\Сообщение\obj\Debug\Сообщение.Form2.resources
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Сообщение\Сообщение\obj\Debug\Сообщение.Properties.Resources.resources
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Сообщение\Сообщение\obj\Debug\Сообщение.csproj.GenerateResource.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Сообщение\Сообщение\obj\Debug\Сообщение.csproj.CoreCompileInputs.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Сообщение\Сообщение\obj\Debug\Сообщение.exe
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Сообщение\Сообщение\obj\Debug\Сообщение.pdb

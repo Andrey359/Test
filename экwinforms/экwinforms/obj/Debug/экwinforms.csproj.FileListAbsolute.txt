@@ -1,0 +1,42 @@
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\экwinforms\экwinforms\bin\Debug\экwinforms.exe.config
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\экwinforms\экwinforms\bin\Debug\экwinforms.exe
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\экwinforms\экwinforms\bin\Debug\экwinforms.pdb
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.AssemblyReference.cache
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\экwinforms\экwinforms\obj\Debug\экwinforms.Form1.resources
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\экwinforms\экwinforms\obj\Debug\экwinforms.Properties.Resources.resources
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.GenerateResource.cache
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.CoreCompileInputs.cache
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\экwinforms\экwinforms\obj\Debug\экwinforms.exe
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\экwinforms\экwinforms\obj\Debug\экwinforms.pdb
+E:\экwinforms\экwinforms\bin\Debug\экwinforms.exe.config
+E:\экwinforms\экwinforms\bin\Debug\экwinforms.exe
+E:\экwinforms\экwinforms\bin\Debug\экwinforms.pdb
+E:\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.AssemblyReference.cache
+E:\экwinforms\экwinforms\obj\Debug\экwinforms.Form1.resources
+E:\экwinforms\экwinforms\obj\Debug\экwinforms.Properties.Resources.resources
+E:\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.GenerateResource.cache
+E:\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.CoreCompileInputs.cache
+E:\экwinforms\экwinforms\obj\Debug\экwinforms.exe
+E:\экwinforms\экwinforms\obj\Debug\экwinforms.pdb
+C:\Users\Андрей\Desktop\экwinforms\экwinforms\bin\Debug\экwinforms.exe.config
+C:\Users\Андрей\Desktop\экwinforms\экwinforms\bin\Debug\экwinforms.exe
+C:\Users\Андрей\Desktop\экwinforms\экwinforms\bin\Debug\экwinforms.pdb
+C:\Users\Андрей\Desktop\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\экwinforms\экwinforms\obj\Debug\экwinforms.Form1.resources
+C:\Users\Андрей\Desktop\экwinforms\экwinforms\obj\Debug\экwinforms.Properties.Resources.resources
+C:\Users\Андрей\Desktop\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\экwinforms\экwinforms\obj\Debug\экwinforms.exe
+C:\Users\Андрей\Desktop\экwinforms\экwinforms\obj\Debug\экwinforms.pdb
+F:\экwinforms\экwinforms\bin\Debug\экwinforms.exe.config
+F:\экwinforms\экwinforms\bin\Debug\экwinforms.exe
+F:\экwinforms\экwinforms\bin\Debug\экwinforms.pdb
+F:\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.AssemblyReference.cache
+F:\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.SuggestedBindingRedirects.cache
+F:\экwinforms\экwinforms\obj\Debug\экwinforms.Form1.resources
+F:\экwinforms\экwinforms\obj\Debug\экwinforms.Properties.Resources.resources
+F:\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.GenerateResource.cache
+F:\экwinforms\экwinforms\obj\Debug\экwinforms.csproj.CoreCompileInputs.cache
+F:\экwinforms\экwinforms\obj\Debug\экwinforms.exe
+F:\экwinforms\экwinforms\obj\Debug\экwinforms.pdb

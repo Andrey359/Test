@@ -1,0 +1,33 @@
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Чат\Чат\bin\Debug\Чат.exe
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Чат\Чат\bin\Debug\Чат.exe.config
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Чат\Чат\obj\Debug\Чат.csproj.AssemblyReference.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Чат\Чат\obj\Debug\Чат.Form1.resources
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Чат\Чат\obj\Debug\Чат.Form2.resources
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Чат\Чат\obj\Debug\Чат.Properties.Resources.resources
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Чат\Чат\obj\Debug\Чат.csproj.GenerateResource.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Чат\Чат\obj\Debug\Чат.csproj.CoreCompileInputs.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Чат\Чат\obj\Debug\Чат.exe
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Чат\Чат\obj\Debug\Чат.pdb
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Чат\Чат\bin\Debug\Чат.pdb
+D:\ака\Чат\Чат\bin\Debug\Чат.exe.config
+D:\ака\Чат\Чат\bin\Debug\Чат.exe
+D:\ака\Чат\Чат\bin\Debug\Чат.pdb
+D:\ака\Чат\Чат\obj\Debug\Чат.csproj.AssemblyReference.cache
+D:\ака\Чат\Чат\obj\Debug\Чат.Form1.resources
+D:\ака\Чат\Чат\obj\Debug\Чат.Form2.resources
+D:\ака\Чат\Чат\obj\Debug\Чат.Properties.Resources.resources
+D:\ака\Чат\Чат\obj\Debug\Чат.csproj.GenerateResource.cache
+D:\ака\Чат\Чат\obj\Debug\Чат.csproj.CoreCompileInputs.cache
+D:\ака\Чат\Чат\obj\Debug\Чат.exe
+D:\ака\Чат\Чат\obj\Debug\Чат.pdb
+D:\ака\Новая папка\Чат\Чат\bin\Debug\Чат.exe.config
+D:\ака\Новая папка\Чат\Чат\bin\Debug\Чат.exe
+D:\ака\Новая папка\Чат\Чат\bin\Debug\Чат.pdb
+D:\ака\Новая папка\Чат\Чат\obj\Debug\Чат.csproj.AssemblyReference.cache
+D:\ака\Новая папка\Чат\Чат\obj\Debug\Чат.Form1.resources
+D:\ака\Новая папка\Чат\Чат\obj\Debug\Чат.Form2.resources
+D:\ака\Новая папка\Чат\Чат\obj\Debug\Чат.Properties.Resources.resources
+D:\ака\Новая папка\Чат\Чат\obj\Debug\Чат.csproj.GenerateResource.cache
+D:\ака\Новая папка\Чат\Чат\obj\Debug\Чат.csproj.CoreCompileInputs.cache
+D:\ака\Новая папка\Чат\Чат\obj\Debug\Чат.exe
+D:\ака\Новая папка\Чат\Чат\obj\Debug\Чат.pdb

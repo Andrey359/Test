@@ -1,0 +1,14 @@
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\obj\Debug\net8.0\Синхронизация.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\obj\Debug\net8.0\Синхронизация.AssemblyInfoInputs.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\obj\Debug\net8.0\Синхронизация.AssemblyInfo.cs
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\obj\Debug\net8.0\Синхронизация.csproj.CoreCompileInputs.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\bin\Debug\net8.0\Синхронизация.exe
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\bin\Debug\net8.0\Синхронизация.deps.json
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\bin\Debug\net8.0\Синхронизация.runtimeconfig.json
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\bin\Debug\net8.0\Синхронизация.dll
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\bin\Debug\net8.0\Синхронизация.pdb
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\obj\Debug\net8.0\Синхронизация.dll
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\obj\Debug\net8.0\refint\Синхронизация.dll
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\obj\Debug\net8.0\Синхронизация.pdb
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\obj\Debug\net8.0\Синхронизация.genruntimeconfig.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Синхронизация\Синхронизация\obj\Debug\net8.0\ref\Синхронизация.dll
