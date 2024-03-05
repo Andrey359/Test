@@ -1,0 +1,14 @@
+D:\ака\Новая папка\Look1\Look1\bin\Debug\net8.0\Look1.exe
+D:\ака\Новая папка\Look1\Look1\bin\Debug\net8.0\Look1.deps.json
+D:\ака\Новая папка\Look1\Look1\bin\Debug\net8.0\Look1.runtimeconfig.json
+D:\ака\Новая папка\Look1\Look1\bin\Debug\net8.0\Look1.dll
+D:\ака\Новая папка\Look1\Look1\bin\Debug\net8.0\Look1.pdb
+D:\ака\Новая папка\Look1\Look1\obj\Debug\net8.0\Look1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ака\Новая папка\Look1\Look1\obj\Debug\net8.0\Look1.AssemblyInfoInputs.cache
+D:\ака\Новая папка\Look1\Look1\obj\Debug\net8.0\Look1.AssemblyInfo.cs
+D:\ака\Новая папка\Look1\Look1\obj\Debug\net8.0\Look1.csproj.CoreCompileInputs.cache
+D:\ака\Новая папка\Look1\Look1\obj\Debug\net8.0\Look1.dll
+D:\ака\Новая папка\Look1\Look1\obj\Debug\net8.0\refint\Look1.dll
+D:\ака\Новая папка\Look1\Look1\obj\Debug\net8.0\Look1.pdb
+D:\ака\Новая папка\Look1\Look1\obj\Debug\net8.0\Look1.genruntimeconfig.cache
+D:\ака\Новая папка\Look1\Look1\obj\Debug\net8.0\ref\Look1.dll

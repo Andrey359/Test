@@ -1,0 +1,15 @@
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\bin\Debug\net6.0\фАЙЛЫ.exe
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\bin\Debug\net6.0\фАЙЛЫ.deps.json
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\bin\Debug\net6.0\фАЙЛЫ.runtimeconfig.json
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\bin\Debug\net6.0\фАЙЛЫ.dll
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\bin\Debug\net6.0\фАЙЛЫ.pdb
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\obj\Debug\net6.0\фАЙЛЫ.csproj.AssemblyReference.cache
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\obj\Debug\net6.0\фАЙЛЫ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\obj\Debug\net6.0\фАЙЛЫ.AssemblyInfoInputs.cache
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\obj\Debug\net6.0\фАЙЛЫ.AssemblyInfo.cs
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\obj\Debug\net6.0\фАЙЛЫ.csproj.CoreCompileInputs.cache
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\obj\Debug\net6.0\фАЙЛЫ.dll
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\obj\Debug\net6.0\refint\фАЙЛЫ.dll
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\obj\Debug\net6.0\фАЙЛЫ.pdb
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\obj\Debug\net6.0\фАЙЛЫ.genruntimeconfig.cache
+C:\Users\ТОП\Desktop\Ученики\Андрей\Основы C#\фАЙЛЫ\фАЙЛЫ\obj\Debug\net6.0\ref\фАЙЛЫ.dll
