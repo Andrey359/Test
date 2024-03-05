@@ -1,0 +1,38 @@
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\bin\Debug\Accounts.exe.config
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\bin\Debug\Accounts.exe
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\bin\Debug\Accounts.pdb
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\Accounts.csproj.AssemblyReference.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\MainWindow.g.cs
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\App.g.cs
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\Accounts_MarkupCompile.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\Accounts_MarkupCompile.lref
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\MainWindow.baml
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\Accounts.g.resources
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\Accounts.Properties.Resources.resources
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\Accounts.csproj.GenerateResource.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\Accounts.exe
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\Accounts.pdb
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\Window1.g.cs
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\Window1.baml
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\Window2.g.cs
+C:\Users\user2\Desktop\УЧЕНИКИ\Андрей\Accounts\Accounts\obj\Debug\Window2.baml
+D:\ака\Новая папка\Accounts\Accounts\bin\Debug\Accounts.exe.config
+D:\ака\Новая папка\Accounts\Accounts\bin\Debug\Accounts.exe
+D:\ака\Новая папка\Accounts\Accounts\bin\Debug\Accounts.pdb
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\Accounts.csproj.AssemblyReference.cache
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\MainWindow.g.cs
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\Window1.g.cs
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\Window2.g.cs
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\App.g.cs
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\Accounts_MarkupCompile.cache
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\Accounts_MarkupCompile.lref
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\MainWindow.baml
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\Window1.baml
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\Window2.baml
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\Accounts.g.resources
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\Accounts.Properties.Resources.resources
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\Accounts.csproj.GenerateResource.cache
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\Accounts.exe
+D:\ака\Новая папка\Accounts\Accounts\obj\Debug\Accounts.pdb
